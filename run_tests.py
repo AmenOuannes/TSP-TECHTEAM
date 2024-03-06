@@ -3,6 +3,7 @@ import pickle
 import sys
 import warnings
 from importlib import import_module
+from tsp.py import *
 
 import gdown
 
